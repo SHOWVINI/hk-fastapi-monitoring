@@ -10,4 +10,4 @@ scrape_configs:
   honor_labels: true
   static_configs:
   - targets:
-    - hk-fastapi-monitoring  # metrics from model
+    - js-fastapi-monitoring  # metrics from model
